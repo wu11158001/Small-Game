@@ -1,0 +1,62 @@
+﻿[
+  {
+    "SerchName": "NumberGame",
+    "Chinese": 2048.0,
+    "English": 2048.0
+  },
+  {
+    "SerchName": "Slither",
+    "Chinese": "貪食蛇",
+    "English": "Slither"
+  },
+  {
+    "SerchName": "Tetris",
+    "Chinese": "俄羅斯方塊",
+    "English": "Tetris"
+  },
+  {
+    "SerchName": "Start",
+    "Chinese": "開始",
+    "English": "Start"
+  },
+  {
+    "SerchName": "ReStart",
+    "Chinese": "重新開始",
+    "English": "ReStart"
+  },
+  {
+    "SerchName": "Score",
+    "Chinese": "分數",
+    "English": "Score"
+  },
+  {
+    "SerchName": "IsThrough",
+    "Chinese": "穿牆",
+    "English": "Is Through"
+  },
+  {
+    "SerchName": "Next",
+    "Chinese": "下一個",
+    "English": "Next"
+  },
+  {
+    "SerchName": "Speed",
+    "Chinese": "速度",
+    "English": "Speed"
+  },
+  {
+    "SerchName": "AutoSpeed",
+    "Chinese": "自動加速",
+    "English": "Auto Speed"
+  },
+  {
+    "SerchName": "GhostPiece",
+    "Chinese": "虛方塊",
+    "English": "Gost Piece"
+  },
+  {
+    "SerchName": "SpeedLevelTitle",
+    "Chinese": "速度等級",
+    "English": "Speed Level"
+  }
+]
